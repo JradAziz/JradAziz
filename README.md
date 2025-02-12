@@ -1,7 +1,11 @@
-# 👋 Hey, I'm Aziz
-Passionate about **problem-solving** and developing **secure, scalable, and high-performance applications**.  
-Skilled in **Django, Express.js, API development, and cloud integrations**.  
-Always eager to **learn, innovate, and optimize backend systems** for efficiency and reliability.  
+Hi there! 👋 I'm Aziz Jrad
 
-📫 **Let's connect:**  
-🔗 [LinkedIn](https://linkedin.com/in/aziz-dev) | 🖥️ [GitHub](https://github.com/azizjrdev) | 📩 [jradaziz9@gmail.com](mailto:jradaziz9@gmail.com)
+🚀 About Me
+
+I'm a Software Engineer Student with a strong background in backend development and machine learning research. I am passionate about coding and problem-solving. My work primarily involves fixing high-priority bugs, implementing backend solutions, and optimizing internal tools.
+
+📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/azizjrad)  
+- ✉️ Reach me via GitHub or [Email](mailto:jradaziz9@gmail.com)  
+
+Thanks for stopping by! 🚀
