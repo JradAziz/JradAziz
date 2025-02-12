@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Aziz Jrad
+Hi there! 👋 I'm Aziz 
 
 🚀 About Me
 
