@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aziz Jrad
+# 👋 Hey, I'm Aziz
 Passionate about **problem-solving** and developing **secure, scalable, and high-performance applications**.  
 Skilled in **Django, Express.js, API development, and cloud integrations**.  
 Always eager to **learn, innovate, and optimize backend systems** for efficiency and reliability.  
