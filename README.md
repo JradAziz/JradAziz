@@ -4,7 +4,7 @@ I'm a Software Engineer Student with a strong background in backend development 
 
 
 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/azizjrad)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/azizdev)  
 - ✉️ Reach me via GitHub or [Email](mailto:jradaziz9@gmail.com)  
 
 Thanks for stopping by! 🚀
